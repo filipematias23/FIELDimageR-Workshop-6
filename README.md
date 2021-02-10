@@ -20,7 +20,8 @@
 
 <br />
 
-## Author: [Filipe Matias](https://github.com/filipematias23)
+## Author: 
+* [Filipe Matias](https://github.com/filipematias23)
 
 <br />
 
