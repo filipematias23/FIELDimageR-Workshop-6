@@ -4,6 +4,7 @@ channels:
 dependencies:
     - r-base=3.6
     - r-rcpp
+    - r-essentialls
     - r-sp
     - r-raster
     - r-codetools
