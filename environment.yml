@@ -2,8 +2,7 @@ channels:
     - conda-forge
     - bioconda
 dependencies:
-    - r-base=4.0.3
-    - r-rcpp
+    - r-base=3.6
     - r-sp
     - r-raster
     - r-codetools
