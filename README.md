@@ -20,6 +20,10 @@
 
 <br />
 
+## Author: [Filipe Matias](https://github.com/filipematias23)
+
+<br />
+
 ## References:
 * [FIELDimageR](https://github.com/OpenDroneMap/FIELDimageR)
 * [YouTube Channel](https://www.youtube.com/channel/UCeOLCtHrnh2tOosDdRobe8g?view_as=subscriber)
