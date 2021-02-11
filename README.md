@@ -16,8 +16,6 @@
 
 > Launch the Binder button below to open a virtual RStudio (running this tutorial online):
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/filipematias23/FIELDimageR-Workshop-6.git/main)
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/phenome-force/FIELDimageR-workshop.git/main?urlpath=rstudio)
 
 <br />
