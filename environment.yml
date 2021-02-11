@@ -11,6 +11,6 @@ dependencies:
   - r-devtools
   - r-lme4
   - r-plyr
-  - r-maptool
+  - r-maptools
   - r-BiocManager
   - r-DescTools
