@@ -1,5 +1,6 @@
 channels:
   - conda-forge
+  - bioconda
 dependencies:
   - r-base=3.6
   - r-sp
@@ -14,3 +15,11 @@ dependencies:
   - r-maptools
   - r-BiocManager
   - r-DescTools
+  - r-doParallel
+  - r-foreach
+  - r-plyr
+  - r-rgeos
+  - r-igraph
+  - r-desctools
+  - r-readxl
+  - bioconductor-ebimage
