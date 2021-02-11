@@ -1,9 +1,5 @@
 FROM rocker/geospatial:3.6.3
 
-## Declares build arguments
-ARG NB_USER
-ARG NB_UID
-
 ## Copies your repo files into the Docker Container
 USER root
 COPY . ${HOME}
