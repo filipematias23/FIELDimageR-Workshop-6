@@ -40,3 +40,5 @@ vignettes/*.pdf
 
 # OS Hidden Files
 .DS_Store
+
+binder.Rproj
