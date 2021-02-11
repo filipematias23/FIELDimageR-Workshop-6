@@ -1,0 +1,16 @@
+channels:
+  - conda-forge
+dependencies:
+  - r-base=3.6
+  - r-sp
+  - r-raster
+  - r-rgdal
+  - r-ggplot2
+  - r-agricolae
+  - r-reshape2
+  - r-devtools
+  - r-lme4
+  - r-plyr
+  - r-maptool
+  - r-BiocManager
+  - r-DescTools
