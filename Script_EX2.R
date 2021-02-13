@@ -38,7 +38,7 @@ EX.L4<-fieldIndex(mosaic=EX.L2$newMosaic, index=index)
 
 # Making a new stack raster with new layers (demage area and indices)
 EX.L5<-stack(EX.L4[[index]],(1-EX.L2$mask),(1-EX.L3$mask)) 
-names(EX.L5)<-c(index,"Area","Demage")
+names(EX.L5)<-c(index,"Area","Damage")
 plot(EX.L5)
 
 ## projection=F (Ignore projection. Normally used only with remote sensing images):
